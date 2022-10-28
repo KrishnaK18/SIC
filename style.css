@@ -1,0 +1,30 @@
+body {
+    background-color: black;
+    font-family:arial;
+    color:white
+}
+
+.mainDiv {
+    background-color: white;
+    max-width: 500px;
+    margin: auto;
+    border: solid black;
+    border-radius: 25px;
+    align-content: center;
+    padding: 20px;
+    color: black;
+}
+
+h1{
+    color:gray;
+    font-family:verdana
+}
+
+.tab {
+    display: inline-block;
+    margin-left: 40px;
+}
+
+#rate {
+    width: 300px;
+}
